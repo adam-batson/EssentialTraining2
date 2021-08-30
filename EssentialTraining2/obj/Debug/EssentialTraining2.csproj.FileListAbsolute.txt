@@ -4,3 +4,8 @@ C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\E
 C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.csproj.CoreCompileInputs.cache
 C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.dll
 C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.pdb
+C:\Users\photo\source\repos\EssentialTraining2\EssentialTraining2\bin\Debug\EssentialTraining2.dll
+C:\Users\photo\source\repos\EssentialTraining2\EssentialTraining2\bin\Debug\EssentialTraining2.pdb
+C:\Users\photo\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.csproj.CoreCompileInputs.cache
+C:\Users\photo\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.dll
+C:\Users\photo\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.pdb
