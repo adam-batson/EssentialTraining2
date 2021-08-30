@@ -1,0 +1,6 @@
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\bin\Debug\EssentialTraining2.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\bin\Debug\EssentialTraining2.pdb
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.csproj.AssemblyReference.cache
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.csproj.CoreCompileInputs.cache
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTraining2\obj\Debug\EssentialTraining2.pdb

@@ -1,0 +1,16 @@
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\EssentialTraining2.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\EssentialTraining2.pdb
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.AssemblyReference.cache
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\Users\tibatson\source\repos\EssentialTraining2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb
